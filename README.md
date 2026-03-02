@@ -18,7 +18,7 @@ TaskForge is a full-stack task management application built with Laravel (backen
 
 ```bash
 # 1. Clone & Install
-git clone https://github.com/your-username/taskforge-frontend.git
+git clone https://github.com/VikasJakasaniya/taskforge-frontend.git
 cd taskforge-frontend
 
 # 2. Environment
